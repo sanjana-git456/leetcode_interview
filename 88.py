@@ -1,5 +1,7 @@
 x = list(map(int, input("Enter: ").split()))
 y = list(map(int, input("Enter: ").split()))
+m = int(input("Enter m: "))
+n = int(input("Enter n: "))
 def merge(nums1, nums2):
     i = m - 1
     j = n - 1
